@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BookRead</string>
+    <string name="book_logo">Book store</string>
+    <string name="order">If you want to buy this book, please leave your contacts below! </string>
+    <string name="btncontent">Leave</string>
+    <string-array name="types">
+
+        <item>business literature</item>
+        <item>books as a gift</item>
+        <item>cooking</item>
+    </string-array>
+</resources>
